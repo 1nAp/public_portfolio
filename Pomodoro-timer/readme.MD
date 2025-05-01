@@ -9,7 +9,6 @@ To change this to the real values, all you need to do is change the start_timer(
 Original:
 
 def start_timer():
-
     global reps
 
     reps += 1
