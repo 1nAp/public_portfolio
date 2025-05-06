@@ -1,6 +1,6 @@
 This program uses the Sheety and Amadeus APIs to find lucrative flight deals going from a pre-disclosed departure city to locations of interest.
 
-The locations and data for sending people notifications is stored within a Google Sheet with a linked Google Form which receives responses to log people's names and email-addresses.
+The locations and data for sending people notifications is stored within a Google Sheet with a linked Google Form which receives responses to log people's names and email-addresses. Please see the JPG files for examples of Google Sheet / Google Form features.
 
 The program also send text-messages to a pre-defined number using TWILIO. I've removed the numbers because the ones used in this case were my own.
 
