@@ -1,0 +1,7 @@
+{% extends 'base.html' %}
+{% from 'bootstrap5/form.html' import render_form %}
+{% block title %}Add Book{% endblock %}
+
+{% block content %}
+    {{ render_form(form) }}<a class="btn btn-primary mt-2" href="{{ url_for('home') }}">Home</a>
+{% endblock %}
